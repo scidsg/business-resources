@@ -9,5 +9,5 @@ Privacy is consent. It's the choice of what you want to reveal about yourself. I
 ## Usability
 Usability is table stakes. If it's not usable, people will not use it. If you're making something open-source but it isn't usable, adoption is going to be a mountain to climb.
 
-# Open Source
+## Open Source
 Open source is a philosophy and a way of thinking. It prioritizes generosity, transparency, and community over greed, secrecy, and profits. It operationalizes our values as a community and helps to build a more ecosystem that benefits everyone, not just those with money.
