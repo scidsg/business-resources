@@ -1,13 +1,14 @@
 # Organizational Pillars
-
-## Accessibility
-Accessible software helps individuals that need assistive technologies interact with the world. It could be a wheelchair to get around your city, or a screen reader to use an app that you need. Without accessible software, our neighbors that are most in need can't do basic things online like access their bank, send a text, or call a friend. In the feature-factories of Big Tech, accessibility is often low on the priority list and ends up as a zombie on a product's backlog. We think this is unethical, in many cases illegal, and shows just how far removed from the customer most businesses are. Even if an app is open-source, usable, and private, but not everyone can use it, it's not ready to release.
-
-## Privacy
-Privacy is consent. It's the choice of what you want to reveal about yourself. If a business were looking through your windows, we'd be appaled. But effectively this is what's happening when companies don't give you the choice of how they use or store your data. Even if an app is usable but isn't private, we're not interested. 
-
-## Usability
-Usability is table stakes. If it's not usable, people will not use it. If you're making something open-source but it isn't usable, adoption is going to be a mountain to climb.
+We've built our organization on four key pillars: accessibility, privacy, usability, and open-source.
 
 ## Open Source
-Open source is a philosophy and a way of thinking. It prioritizes generosity, transparency, and community over greed, secrecy, and profits. It operationalizes our values as a community and helps to build a more ecosystem that benefits everyone, not just those with money.
+Our organization supports the open-source philosophy, emphasizing generosity, transparency, and community over profits and corporate secrecy. Open-source software provides a more equitable and accessible technology ecosystem for everyone, not just those with financial resources.
+
+## Usability
+Usability is essential for ensuring that people will use and adopt technology. A software solution that is not user-friendly is unlikely to be successful, even if it is open-source.
+
+## Privacy
+Privacy is consent - it gives people the choice and control over what they want to reveal about themselves to the world. Users should have the right to decide what companies can do with their personal information. Google is usable, but it's far from private. We can do better.
+
+## Accessibility
+Accessibility ensures that individuals with disabilities can use and interact with technology. This includes using assistive technologies such as screen readers or braille displays. We believe that excluding individuals who need such technologies from basic online activities is unethical and, in many cases, illegal. If software is open-source, usable, and private but is inaccessible, it's still not ready for the world.
