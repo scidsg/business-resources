@@ -1,4 +1,4 @@
-# Organizational Pillars
+# 🏛️ Organizational Pillars
 We've built our organization on four key pillars: accessibility, privacy, usability, and open-source.
 
 ## Open Source
