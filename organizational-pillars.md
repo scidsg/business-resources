@@ -14,10 +14,10 @@ Privacy is consent - it gives people the choice and control over what they want 
 Accessibility ensures that individuals requiring assistive technologies such as screen readers or braille displays can interact with digital products. We believe that excluding individuals who need such technologies from basic online activities is unethical and, in many cases, illegal. If software is open-source, usable, and private but is inaccessible, it's still not ready for the world.
 
 ## Worker Equity
-If you do work for US companies operating in US markets, you deserve a US wage. Full stop. The budget that enables hiring four people in the US shouldn't enable hiring 40 people abroad. This is expoilation, plain and simple. Science & Design pays everyone, no matter where they live, the same rate based on the market we're serving.
+If you do work for US companies operating in US markets, you deserve a US wage. Full stop. The budget for hiring four people in the US shouldn't enable hiring 40 people abroad. This is exploitation, plain and simple. Science & Design pays everyone the same rate based on the market we're serving, no matter where they live.
 
 ## Worker Autonomy
-We base our pay off of a 4-day work week, and a 10-month work year. There are dealines, deliverables and the occasional meeting, but if you can get all of your work done in two days, late at night, go for it. Companies shouldn't prescribe when and how someone completes their work. And PTO? You own your own time, not us. Never ask permission.
+We base our pay on a 4-day work week and a 10-month work year. There are deadlines, deliverables, and the occasional meeting, but if you can get all of your work done in two days, late at night, go for it. Companies shouldn't prescribe when and how someone completes their work. And PTO? You own your own time, not us. Never ask permission.
 
 ## Non-Hierarchy
-Hierarchy, by definition, removes the autonomy of everyone at the bottom. And by now we should know that most damage is done by those at the top. This antiquated trope stifles creativity and momentum, creates a class system that is often exploited, and crushes the morale of those without influence. We believe that leadership is a quality, not a title.
+Hierarchy, by definition, removes the autonomy of everyone at the bottom. And by now, we should know that those at the top do the most damage. This old trope stifles creativity and momentum, creates a class system that is often exploited, and crushes the morale of those without influence. Leadership is a quality, not a title.
