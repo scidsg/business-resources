@@ -1,5 +1,4 @@
 # 🏛️ Organizational Pillars
-We've built our organization on four key pillars: accessibility, privacy, usability, and open-source.
 
 ## Open Source
 Our organization supports the open-source philosophy, emphasizing generosity, transparency, and community over profits and corporate secrecy. Open-source operationalizes our values as a community and provides a more equitable and accessible technology ecosystem for everyone, not just those with financial resources.
