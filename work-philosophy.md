@@ -1,3 +1,4 @@
+**DRAFT**
 # Work Philosophy
 As an organization, we want to have a measurable impact in our focus areas - press freedom, activism, LGBTQ+ rights, and accessibility technology. But how many times have you experienced that anxiety of feeling that you need to be productive in front of a computer, even when you've already completed your work? We want to bring more balance into our professional relationships with employers intentionally.
 
