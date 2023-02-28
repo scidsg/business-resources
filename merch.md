@@ -1,6 +1,6 @@
 # Merch
 
-Science & Design sells merch for ourselves and partners. All profits are donated to the organizations whose merchandise was purchased.
+Science & Design sells merch for ourselves and partners. We donate all profits to the organizations whose merchandise was purchased.
 
 ## Terms
 
