@@ -12,4 +12,4 @@ Tips go to the store's operation, including hosting, creating merchandise, or ot
 
 This spreadsheet has limited but real data (PII removed) from Shopify, Printful, and PayPal and details how we manage store finances:
 
-https://docs.google.com/spreadsheets/d/1JXyofTmHkI_KegVjG5e2mpZAT8pXBw7rMy1dhmv-7eY/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1PSKz2iNTiKtu7CXaQEt4AbqG6qW-IUQVPeEH9r3Porw/edit?usp=sharing
