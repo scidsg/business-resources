@@ -1,19 +1,15 @@
 # Merch
 
-Science & Design sells merch for ourselves and partners. We donate all profits to the organizations whose merchandise was purchased.
+Science & Design sells merchandise for ourselves and our partners. We donate all profits to the organizations whose products were purchased.
 
 ## Terms
 
-Science & Design retains a 10% Operations Fee for shop fees and people hours.
+Science & Design retains a 10% Operations Fee.
 
-## Donations
+Tips go to the store's operation, including hosting, creating merchandise, or other relevant business needs.
 
-An example payout:
+## Resources
 
-T-Shirt Price: $25
+This spreadsheet has limited but real data (PII removed) from Shopify, Printful, and PayPal and details how we manage store finances:
 
-Cost of Printing: $15
-
-Ops Fee @ 10%: - $2.50
-
-Donation: $7.50
+https://docs.google.com/spreadsheets/d/1_DV-rEpRc1_0NKCbmisGfDBwyCkwcqtAj8R0CYR5HNU/edit?usp=sharing
