@@ -1,4 +1,4 @@
-# Financial Reporting Policy:
+# Financial Reporting Policy
 
 1.1 Purpose: The purpose of the financial reporting policy is to provide accurate, complete, and timely financial information to the Board of Directors, members, donors, and regulatory authorities.
 
