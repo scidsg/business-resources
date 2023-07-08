@@ -5,7 +5,7 @@
 - [Terms of Service](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Terms%20of%20Service.md)
 - [Articles of Incorporation](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Articles%20of%20Incorporation.pdf)
 - [Corporate Bylaws](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Corporate%20Bylaws.pdf)
-- [Organizational Pillars](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/organizational-pillars.md)
+- [Organizational Pillars](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Organizational%20Pillars.md)
 
 ## Procedures & Policies
 - [Accounting Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Accounting%20Policy.md)
