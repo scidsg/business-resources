@@ -1,11 +1,11 @@
 # Science & Design Business Resources
 
 ## Business Resources
-- [501(c)(3) Determination Letter](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/501(c)(3)-Determination-Letter.pdf)
-- [Terms of Service](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Terms%20of%20Service.md)
+- [501(c)(3) Determination Letter](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/501(c)(3)%20Determination%20Letter.pdf)
 - [Articles of Incorporation](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Articles%20of%20Incorporation.pdf)
 - [Corporate Bylaws](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Corporate%20Bylaws.pdf)
-- [Organizational Pillars](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Organizational%20Pillars.md)
+- [Mission Statement](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Mission%20Statement.md)
+- [Terms of Service](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Terms%20of%20Service.md)
 
 ## Procedures & Policies
 - [Accounting Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Accounting%20Policy.md)
