@@ -1,4 +1,6 @@
-# Terms of Service for Our 501(c)(3) Nonprofit Organization
+# Terms of Service
+
+We believe these terms reflect our commitment to professional integrity, respect for our team's expertise, and the value we place on open, transparent relationships with our clients. By engaging with us, you agree to these terms, recognizing that we are here to build great software and make a meaningful impact on public interest causes.
 
 1. **Nature of our Service:** We are an assembly of software development experts, collaborating to support public interest causes. Our focus is on building outstanding software, particularly in areas promoting freedom of press, internet freedom, activism, LGBTQ+ rights, and accessibility technology. Our service does not resemble that of a staffing agency or a collection of hired hands. We are engaged for the value of our expertise and knowledge, not simply to augment your staff.
 
@@ -12,9 +14,6 @@
 
 6. **Management and Mediation Services:** If you require management or mediation services, such services are offered at three times our normal rate. This is due to the complex and time-consuming nature of these services, which extends beyond our core area of expertise.
 
-7. **Rush Work Fees:** In the event that you require urgent work (defined as a request made with less than 30 working days' notice), a rush cost multiplier will be applied. This is calculated on a scale where 30 days notice incurs a 0.25 multiplier, while a one-day notice would incur a 4 multiplier. This is to account for the additional resources and expedited process needed to meet your short-notice requirements.
+7. **Rush Work Fees:** In the event that you require urgent work (defined as a request made with less than 30 working days' notice), a rush cost multiplier will be applied. This is calculated on a scale where 30 days notice incurs a 1.25x multiplier, while a one-day notice would incur a 4x multiplier. This is to account for the additional resources and expedited process needed to meet your short-notice requirements.
 
 8. **Administrative Fees:** To cover the administrative costs associated with running our organization, we apply a 10% administrative fee to all grants, contracts, or other forms of paid engagement. These fees assist with the general operational costs of our nonprofit organization, enabling us to continue providing our services and promoting public interest causes. By engaging with us, you acknowledge and agree to this administrative fee.
-
-We believe these terms reflect our commitment to professional integrity, respect for our team's expertise, and the value we place on open, transparent relationships with our clients. By engaging with us, you agree to these terms, recognizing that we are here to build great software and make a meaningful impact on public interest causes.
-

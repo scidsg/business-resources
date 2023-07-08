@@ -1,4 +1,4 @@
-# Merch
+# Merchandise Policy
 
 Science & Design sells merchandise for ourselves and our partners. We donate all profits to the organizations whose products were purchased.
 
