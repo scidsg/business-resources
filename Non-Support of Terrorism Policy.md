@@ -14,15 +14,15 @@ This policy applies to all individuals who are directly or indirectly associated
 
 ## 4. Procedures
 
-4.1 Risk Assessment: The organization will conduct regular risk assessments to identify and mitigate any potential risks related to terrorism support.
+4.1 **Risk Assessment:** The organization will conduct regular risk assessments to identify and mitigate any potential risks related to terrorism support.
 
-4.2 Due Diligence and Vetting: The organization will exercise due diligence in hiring staff, engaging volunteers, and collaborating with partners. Background checks and vetting will be performed to ensure they are not involved in supporting terrorism in any form.
+4.2 **Due Diligence and Vetting:** The organization will exercise due diligence in hiring staff, engaging volunteers, and collaborating with partners. Background checks and vetting will be performed to ensure they are not involved in supporting terrorism in any form.
 
-4.3 Compliance with Laws: The organization will strictly comply with all applicable local, state, national, and international laws and regulations pertaining to non-support of terrorism.
+4.3 **Compliance with Laws:** The organization will strictly comply with all applicable local, state, national, and international laws and regulations pertaining to non-support of terrorism.
 
-4.4 Training and Awareness: The organization will organize regular training sessions and awareness programs for all staff and associates to ensure understanding and adherence to this policy.
+4.4 **Training and Awareness:** The organization will organize regular training sessions and awareness programs for all staff and associates to ensure understanding and adherence to this policy.
 
-4.5 Monitoring and Review: The organization will monitor and review this policy periodically to ensure its effectiveness and to address any changes in the risk environment or regulatory requirements.
+4.5 **Monitoring and Review:** The organization will monitor and review this policy periodically to ensure its effectiveness and to address any changes in the risk environment or regulatory requirements.
 
 ## 5. Reporting Violations
 
