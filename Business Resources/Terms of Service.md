@@ -1,4 +1,4 @@
-# Terms of Service for Our 501(c)(3) Nonprofit Organization
+# Terms of Service
 
 1. **Nature of our Service:** We are an assembly of software development experts, collaborating to support public interest causes. Our focus is on building outstanding software, particularly in areas promoting freedom of press, internet freedom, activism, LGBTQ+ rights, and accessibility technology. Our service does not resemble that of a staffing agency or a collection of hired hands. We are engaged for the value of our expertise and knowledge, not simply to augment your staff.
 
