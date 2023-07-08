@@ -1,4 +1,4 @@
-# Decision Making
+# Decision Making Procedure
 
 ## Types of Decisions
 
