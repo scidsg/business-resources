@@ -4,14 +4,14 @@
 The purpose of this Whistleblower Policy is to encourage and enable employees, volunteers, and other stakeholders of Science & Design, Inc. to raise concerns regarding any illegal activities, unethical behavior, or violations of organizational policies and procedures, without fear of retaliation.
 
 ## Scope
-This policy applies to all employees, volunteers, board members, contractors, and other individuals associated with Science & Design, Inc..
+This policy applies to all employees, volunteers, board members, contractors, and other individuals associated with Science & Design, Inc.
 
 ## Reporting Procedures
 1. **Reporting Options:** Individuals who have concerns about potential wrongdoing or policy violations should report their concerns promptly. They may do so through the following channels:
 
 - **Direct Reporting:** Concerns can be reported directly to the immediate supervisor or department head, unless the concern involves them. In such cases, individuals should report the concern to the next level of management or the designated Whistleblower Reporting Officer.
 - **Whistleblower Hotline:** An anonymous and confidential reporting hotline is available using Hush Line. First, download Tor Browser, then navigate to: http://wfnei4panqyghz4l6nuzlygxeict7ql72ge7n6nicxfj6rzy7zu333ad.onion/. To learn more about Hush Line, visit https://hushline.app
-- **Email or Written Communication:** Concerns can also be submitted in writing, via email or physical mail, to the designated Whistleblower Reporting Officer.
+- **Email or Written Communication:** Concerns can also be submitted in writing, via email or physical mail, to the Executive Director.
 
 ### Mailing Address
 ```
