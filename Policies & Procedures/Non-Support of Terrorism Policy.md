@@ -26,7 +26,7 @@ This policy applies to all individuals who are directly or indirectly associated
 
 ## 5. Reporting Violations
 
-Any suspicions or knowledge of violations of this policy should be reported immediately to security@scidsg.org. The identity of the reporter will be kept confidential to the extent possible and permitted by law. To submit an anonymous message to the Executive Director using Hush Line, first download Tor Browser, then enter: http://wfnei4panqyghz4l6nuzlygxeict7ql72ge7n6nicxfj6rzy7zu333ad.onion/
+Any suspicions or knowledge of violations of this policy should be reported immediately to security@scidsg.org. The identity of the reporter will be kept confidential to the extent possible and permitted by law. To submit an anonymous Hush Line message to the Executive Director, first download Tor Browser, then enter: http://wfnei4panqyghz4l6nuzlygxeict7ql72ge7n6nicxfj6rzy7zu333ad.onion/
 
 ## 6. Penalties
 
