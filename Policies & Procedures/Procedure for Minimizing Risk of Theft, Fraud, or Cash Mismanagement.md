@@ -20,7 +20,7 @@
 
 4.1 Staff members should be trained on the organization's financial policies and procedures, as well as the signs of potential fraud or theft.
 
-4.2 A whistleblower policy should be in place to encourage staff members to report any suspected fraudulent activities without fear of retaliation.
+4.2 A [whistleblower policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Whistleblower%20Policy.md) is in place and staff members are encourage to report any suspected fraudulent activities without fear of retaliation.
 
 4.3 Whistleblowers can send the Executive Director an anonymous message using [Hush Line](https://hushline.app). Download Tor Browser, then navigate to: http://wfnei4panqyghz4l6nuzlygxeict7ql72ge7n6nicxfj6rzy7zu333ad.onion/
 
