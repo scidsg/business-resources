@@ -22,6 +22,7 @@ United States
 - [Decision Making Procedure](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Decision%20Making%20Procedure.md)
 - [Disbursements to Vendors and Suppliers](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Disbursements%20to%20Vendors%20and%20Suppliers.md)
 - [Document Retention Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Document%20Retention%20Policy.md)
+- [Ethical Business Behavior](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Policy%20on%20Ethical%20Business%20Behavior.md)
 - [Financial Reporting Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Financial%20Reporting%20Policy.md)
 - [Merchandise Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20&%20Procedures/Merchandise%20Policy.md)
 - [Non-Support of Terrorism Policy and Procedures](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Non-Support%20of%20Terrorism%20Policy.md)
