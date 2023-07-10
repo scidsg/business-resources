@@ -17,6 +17,7 @@
 - [Financial Reporting Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Financial%20Reporting%20Policy.md)
 - [Merchandise Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20&%20Procedures/Merchandise%20Policy.md)
 - [Non-Support of Terrorism Policy and Procedures](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Non-Support%20of%20Terrorism%20Policy.md)
+- [Procedure for Minimizing Risk of Theft, Fraud, or Cash Mismanagement](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Procedure%20for%20Minimizing%20Risk%20of%20Theft%2C%20Fraud%2C%20or%20Cash%20Mismanagement.md)
 - [Procurement of Goods and Services](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Procurement%20of%20Goods%20and%20Services.md)
 - [Procedure for Receiving Bank Checks and Wired Funds](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Procedure%20for%20Receiving%20Bank%20Checks%20and%20Wired%20Funds.md)
 - [Reviewing Costs Incurred Under Grant Awards Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Reviewing%20Costs%20Incurred%20Under%20Grant%20Awards%20Policy.md)
