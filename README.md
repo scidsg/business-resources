@@ -18,6 +18,7 @@
 - [Merchandise Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20&%20Procedures/Merchandise%20Policy.md)
 - [Non-Support of Terrorism Policy and Procedures](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Non-Support%20of%20Terrorism%20Policy.md)
 - [Procurement of Goods and Services](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Procurement%20of%20Goods%20and%20Services.md)
+- [Procedure for Receiving Bank Checks and Wired Funds](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Procedure%20for%20Receiving%20Bank%20Checks%20and%20Wired%20Funds.md)
 - [Reviewing Costs Incurred Under Grant Awards Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Reviewing%20Costs%20Incurred%20Under%20Grant%20Awards%20Policy.md)
 - [Timekeeping and Payroll](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Timekeeping%20and%20Payroll.md)
 - [Travel Expenses
