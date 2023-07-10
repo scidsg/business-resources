@@ -24,6 +24,7 @@
 - [Timekeeping and Payroll](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Timekeeping%20and%20Payroll.md)
 - [Travel Expenses
 ](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Travel%20Expenses.md)
+- [Whistleblower Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Whistleblower%20Policy.md)
 
 ## External Resources
 - [Compliance Guide for 501(c)(3) Charities](https://github.com/scidsg/business-resources/blob/main/External%20Resources/Compliance%20Guide%20for%20501(c)(3)%20Public%20Charities.pdf)
