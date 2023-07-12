@@ -37,4 +37,5 @@ United States
 
 ## External Resources
 - [Compliance Guide for 501(c)(3) Charities](https://github.com/scidsg/business-resources/blob/main/External%20Resources/Compliance%20Guide%20for%20501(c)(3)%20Public%20Charities.pdf)
+- [Key Accounting Staff](https://github.com/scidsg/business-resources/blob/main/External%20Resources/Key%20Accounting%20Staff.md)
   
