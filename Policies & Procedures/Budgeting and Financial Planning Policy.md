@@ -4,8 +4,6 @@
 
 ## 1. Accounting Policy:
 
-You could add a section on Grant Accounting:
-
 1.1 Grant Accounting: For each grant received, a separate cost center will be established to track direct and indirect costs. Indirect costs will be allocated based on the approved indirect cost rate of 10%, unless a different rate is approved by the funder.
 
 ## 2. Financial Reporting Policy:
