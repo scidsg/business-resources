@@ -10,7 +10,7 @@ This policy applies to all employees, volunteers, board members, contractors, an
 1. **Reporting Options:** Individuals who have concerns about potential wrongdoing or policy violations should report their concerns promptly. They may do so through the following channels:
 
 - **Direct Reporting:** Concerns can be reported directly to the immediate supervisor or department head, unless the concern involves them. In such cases, individuals should report the concern to the next level of management or the designated Whistleblower Reporting Officer.
-- **Whistleblower Hotline:** An anonymous and confidential reporting hotline is available using Hush Line. First download Tor Browser, then enter: http://beenpaddmxim7iixcvapewhe76mcyjdscce5vzermmkrthyl3hkaj3qd.onion/. To learn more about Hush Line, visit https://hushline.app.
+- **Whistleblower Hotline:** An anonymous and confidential reporting hotline is available using Hush Line. First download Tor Browser, then enter: http://noojtzjlqtrkbue6vrecsig55ch3trd2pkwpxlnjkjezpimwgxfrkeid.onion/. To learn more about Hush Line, visit https://hushline.app.
 - **Email or Written Communication:** Concerns can also be submitted in writing, via email or physical mail, to the Executive Director.
 
 ### Mailing Address
