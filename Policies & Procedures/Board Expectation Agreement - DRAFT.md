@@ -1,8 +1,6 @@
-**Board Expectation Agreement**
+# Board Expectation Agreement
 
 **[Your Nonprofit Name] Board of Directors**
-
-**Board Expectations Agreement**
 
 As a member of the Board of Directors of [Your Nonprofit Name], I understand and commit to fulfilling the following expectations:
 
