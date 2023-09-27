@@ -1,10 +1,10 @@
 # Board Expectation Agreement
 
-**[Your Nonprofit Name] Board of Directors**
+**Science & Design, Inc. Board of Directors**
 
-As a member of the Board of Directors of [Your Nonprofit Name], I understand and commit to fulfilling the following expectations:
+As a member of the Board of Directors of Science & Design, Inc., I understand and commit to fulfilling the following expectations:
 
-**1. Mission and Values:** I will actively support, promote, and uphold the mission, vision, and values of [Your Nonprofit Name].
+**1. Mission and Values:** I will actively support, promote, and uphold the mission, vision, and values of Science & Design, Inc.
 
 **2. Governance:** I will participate in governance activities, including attending board meetings, reviewing materials in advance, and engaging in discussions to make informed decisions.
 
