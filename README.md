@@ -1,5 +1,7 @@
 # Science & Design Business Resources
 
+Board to review policies and procedures and determine applicable next steps.
+
 ## Mailing Address
 ```
 1025 Alameda de las Pulgas
