@@ -22,7 +22,7 @@
 
 4.2 A [whistleblower policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Whistleblower%20Policy.md) is in place and staff members are encourage to report any suspected fraudulent activities without fear of retaliation.
 
-4.3 Whistleblowers can send an anonymous and confidential report using Hush Line. First download Tor Browser, then enter: http://ubcsglmtpbt5uh2djhrry2yght2g2kf2uopqzpjoy6ftyeb6tktyfrid.onion/. To learn more about Hush Line, visit https://hushline.app.
+4.3 Whistleblowers can send an anonymous and confidential report using Hush Line. First download Tor Browser, then enter: http://6svaqhzj73j3vuqvwl6r7iithaiaasubdbfw3rhs3y4k6xskiymaj4yd.onion/. To learn more about Hush Line, visit https://hushline.app.
 ## 5. Check and Document Controls
 
 5.1 Blank checks should be kept in a secure location and should only be accessible by authorized individuals.
