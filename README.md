@@ -20,6 +20,7 @@ United States
 ## Procedures & Policies
 - [Accounting Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Accounting%20Policy.md)
 - [Budgeting and Financial Planning Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Budgeting%20and%20Financial%20Planning%20Policy.md)
+- [Code of Conduct](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Code%20of%20Conduct.md)
 - [Conflict of Interest Policy](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Conflict%20of%20Interest%20Policy.pdf)
 - [Decision Making Procedure](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Decision%20Making%20Procedure.md)
 - [Disbursements to Vendors and Suppliers](https://github.com/scidsg/business-resources/blob/main/Policies%20%26%20Procedures/Disbursements%20to%20Vendors%20and%20Suppliers.md)
