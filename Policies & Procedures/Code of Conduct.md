@@ -60,8 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-tips@scidsg.org, or anonymously using Hush Line. First, download [Tor Browser](https://torproject.org/download), then visit http://6svaqhzj73j3vuqvwl6r7iithaiaasubdbfw3rhs3y4k6xskiymaj4yd.onion/.
+reported to the community leaders responsible for enforcement using https://tips.hushline.app/submit_message/scidsg.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
