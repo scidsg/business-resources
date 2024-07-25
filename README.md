@@ -4,6 +4,7 @@ Board to review policies and procedures and determine applicable next steps.
 
 ## Mailing Address
 ```
+Science & Design, Inc.
 1025 Alameda de las Pulgas
 Suite 708
 Belmont, CA, 94002-1440
