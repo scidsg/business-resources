@@ -11,6 +11,11 @@ Belmont, CA, 94002-1440
 United States
 ```
 
+## EIN
+```
+92-0421940
+```
+
 ## Business Resources
 - [501(c)(3) Determination Letter](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/501(c)(3)%20Determination%20Letter.pdf)
 - [Articles of Incorporation](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Articles%20of%20Incorporation.pdf)
