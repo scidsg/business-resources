@@ -1,10 +1,12 @@
-# Science & Design Business Resources
+# Hush Line Business Resources
+
+Science & Design, Inc. is now operating under the name Hush Line.
 
 Board to review policies and procedures and determine applicable next steps.
 
 ## Mailing Address
 ```
-Science & Design, Inc.
+Hush Line
 1025 Alameda de las Pulgas
 Suite 708
 Belmont, CA, 94002-1440
@@ -17,6 +19,7 @@ United States
 ```
 
 ## Business Resources
+- [Fictitious Business Name](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/fbn-registrant-copy.PDF)
 - [501(c)(3) Determination Letter](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/501(c)(3)%20Determination%20Letter.pdf)
 - [Articles of Incorporation](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Articles%20of%20Incorporation.pdf)
 - [Corporate Bylaws](https://github.com/scidsg/business-resources/blob/main/Business%20Resources/Corporate%20Bylaws.pdf)
