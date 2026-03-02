@@ -1,6 +1,6 @@
 # Hush Line Board of Advisors
 
-After the year, we'll cover the journey of industry-specific whistleblowing and map our review of Hush Line to those phases.
+Over the year, we'll cover the journey of industry-specific whistleblowing and map our review of Hush Line to those phases.
 
 **The journey:**
 
